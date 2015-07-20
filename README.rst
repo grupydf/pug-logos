@@ -24,11 +24,11 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Goiás
 
-    - GrupyGo (`logo <python-goias.png>`_)
+    - GrupyGo (`logo <python-goias.png>`_, `original em <https://github.com/guilhermebr/grupygo/blob/master/application/static/img/python-goias.png>`_)
     
 * Maranhão
 
-    - PUG-MA (`logo <pugma.png>`_)
+    - PUG-MA (`logo <pugma.png>`_, `original em <https://github.com/pug-ma/pugma-website/blob/master/apps/page/static/img/pugma.png>`_)
 
 * Mato Grosso
 
@@ -66,7 +66,7 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
     
 * São Paulo
 
-    - Grupy-SP
+    - Grupy-SP (`logo <logo-grupysp.png>`_, `original em <https://github.com/grupy-sp/logo/blob/master/logo-grupysp.png>`_)
     
 * Sergipe   
 
