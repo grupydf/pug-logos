@@ -46,13 +46,13 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
   
 * Pernanbuco
 
-    - PUG-PE (`logo <pug-pe>`_)
+    - PUG-PE (`logo <pug-pe.png>`_)
 
 * Piauí
 
 * Rio de Janeiro
 
-    - Pythonrio (`logo <pythonrio>`_)
+    - Pythonrio (`logo <pythonrio.png>`_)
 
 * Rio Grande do Norte
 
