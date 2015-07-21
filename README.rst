@@ -68,6 +68,8 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
     - Grupy-SP (`logo <logo-grupysp.png>`_, `original em <https://github.com/grupy-sp/logo/blob/master/logo-grupysp.png>`_)
     
-* Sergipe   
+* Sergipe
+
+	- `PUG-SE <http://pug-se.github.io>`_ (`logo <pug-se.png>`_) 
 
 * Tocantins
