@@ -20,7 +20,7 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Distrito Federal
 
-    - `grupy-df <http://grupydf.github.io/>`_ (`logo <grupy-df.svg>`_, `original em <https://github.com/grupydf/logo/blob/master/propostas-svg/proposta-9.svg>`_)
+    - `grupy-df <http://grupydf.github.io/>`_ (`logo <grupy-df.svg>`_, `original em <https://github.com/grupydf/logo/blob/master/propostas-svg/proposta-9-APROVADA.svg>`_)
 
 * Espírito Santo
 
